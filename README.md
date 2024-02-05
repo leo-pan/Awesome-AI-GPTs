@@ -44,6 +44,7 @@
 |GPTs|点击开玩|介绍|
 |---|---|---|
 |[LangGPT](https://chat.openai.com/g/g-Apzuylaqk-langgpt)|[点击开玩](https://chat.openai.com/g/g-Apzuylaqk-langgpt)| 结构化提示词 LangGPT 的 GPTs 版本.|
+|[LangGPT魔法小妹](https://chat.openai.com/g/g-XlamS1u3m-langgptmo-fa-xiao-mei)|[点击开玩](https://chat.openai.com/g/g-XlamS1u3m-langgptmo-fa-xiao-mei)| LangGPT魔法小妹 GPTs 版本，适用于GPT3.5版本.|
 |[PromptPet](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)|[点击开玩](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)| 主动懂你，自动帮人写prompt的GPTs，快来用用看.|
 |[DesignerGPT](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt)|[点击开玩](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt)| 直接生成网站.|
 |[时事热评员](https://chat.openai.com/g/g-gbfs6fy7c-shi-shi-re-ping-yuan)|[点击开玩](https://chat.openai.com/g/g-gbfs6fy7c-shi-shi-re-ping-yuan)|时事热评|
